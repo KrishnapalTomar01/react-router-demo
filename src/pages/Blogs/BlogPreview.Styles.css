@@ -1,3 +1,7 @@
 .link-container {
     padding: 10px;
 }
+
+.link-span {
+    cursor: pointer;
+}
